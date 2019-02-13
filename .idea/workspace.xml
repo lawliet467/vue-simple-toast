@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a44c21-26c8-4c59-b49a-6e1e433fd44a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gif.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toast/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toast/toast.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="43a44c21-26c8-4c59-b49a-6e1e433fd44a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -128,11 +123,6 @@
               <item name="vue-simple-toast" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue-simple-toast" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="vue-simple-toast" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vue-simple-toast" type="462c0819:PsiDirectoryNode" />
-              <item name="toast" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -174,12 +164,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550030477973</updated>
-      <workItem from="1550030479418" duration="2771000" />
+      <workItem from="1550030479418" duration="3028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2771000" />
+    <option name="totallyTimeSpent" value="3028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1296" y="83" width="1280" height="647" extended-state="0" />

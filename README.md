@@ -28,6 +28,8 @@ this.$toast.show({
 ```
 this.$toast.hide()
 ```
+### 备注
+组件使用的是rem单位，因为项目中有做rem适配。可自行在toast.vue中修改样式
 ### License
 [MIT](https://github.com/lawliet467/vue-simple-toast/License)  
 
